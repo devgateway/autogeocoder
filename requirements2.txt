@@ -30,7 +30,7 @@ launchpadlib==1.10.4
 lazr.restfulclient==0.13.4
 lazr.uri==1.0.3
 louis==3.0.0
-lxml==3.7.3
+lxml==4.6.3
 Mako==1.0.6
 MarkupSafe==0.23
 matplotlib==2.0.2
